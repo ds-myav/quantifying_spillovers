@@ -49,4 +49,4 @@ Follow these steps to reproduce the experiment on your machine:
 <sup>(2)</sup> *Due to inherent nondeterminism in computation, the numerical results obtained when reproducing the experiment may show slight variations compared to those reported in the paper, depending on hardware differences.*
 
 ## License
-All material (data and code) is released under the CC BY-NC 4.0 license (see the LICENSE file for details).
+All material (data and code) is released under the CC BY-NC-ND 4.0 license (see the LICENSE file for details).
